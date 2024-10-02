@@ -1,0 +1,100 @@
+[
+  {
+    "stockSymbol": "AAPL",
+    "BuySellIndeicator": "B",
+    "quantity": 50,
+    "price": 100,
+    "packetSequence": 1
+  },
+  {
+    "stockSymbol": "AAPL",
+    "BuySellIndeicator": "B",
+    "quantity": 30,
+    "price": 98,
+    "packetSequence": 2
+  },
+  {
+    "stockSymbol": "AAPL",
+    "BuySellIndeicator": "S",
+    "quantity": 20,
+    "price": 101,
+    "packetSequence": 3
+  },
+  {
+    "stockSymbol": "AAPL",
+    "BuySellIndeicator": "S",
+    "quantity": 10,
+    "price": 102,
+    "packetSequence": 4
+  },
+  {
+    "stockSymbol": "META",
+    "BuySellIndeicator": "B",
+    "quantity": 40,
+    "price": 50,
+    "packetSequence": 5
+  },
+  {
+    "stockSymbol": "META",
+    "BuySellIndeicator": "S",
+    "quantity": 30,
+    "price": 55,
+    "packetSequence": 6
+  },
+  {
+    "stockSymbol": "META",
+    "BuySellIndeicator": "S",
+    "quantity": 20,
+    "price": 57,
+    "packetSequence": 7
+  },
+  {
+    "stockSymbol": "MSFT",
+    "BuySellIndeicator": "B",
+    "quantity": 25,
+    "price": 150,
+    "packetSequence": 8
+  },
+  {
+    "stockSymbol": "MSFT",
+    "BuySellIndeicator": "S",
+    "quantity": 15,
+    "price": 155,
+    "packetSequence": 9
+  },
+  {
+    "stockSymbol": "MSFT",
+    "BuySellIndeicator": "B",
+    "quantity": 20,
+    "price": 148,
+    "packetSequence": 10
+  },
+  {
+    "stockSymbol": "AMZN",
+    "BuySellIndeicator": "B",
+    "quantity": 10,
+    "price": 3000,
+    "packetSequence": 11
+  },
+  {
+    "stockSymbol": "AMZN",
+    "BuySellIndeicator": "B",
+    "quantity": 5,
+    "price": 2999,
+    "packetSequence": 12
+  },
+  {
+    "stockSymbol": "AMZN",
+    "BuySellIndeicator": "S",
+    "quantity": 15,
+    "price": 3020,
+    "packetSequence": 13
+  },
+  {
+    "stockSymbol": "AMZN",
+    "BuySellIndeicator": "S",
+    "quantity": 10,
+    "price": 3015,
+    "packetSequence": 14
+  }
+]
